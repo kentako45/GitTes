@@ -1,3 +1,6 @@
 こんにちは
 hello
 welcom
+Bonjour
+Guten Tag
+Hola
