@@ -1,6 +1,5 @@
-こんにちは
-hello
-welcom
-Bonjour
-Guten Tag
-Hola
+こんにちは ==>日本語
+hello ==>英語
+Bonjour ==>フランス語
+Guten Tag ==>ドイツ語
+Hola ==>スペイン語
